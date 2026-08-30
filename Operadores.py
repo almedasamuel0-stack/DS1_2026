@@ -1,0 +1,6 @@
+nome = str(input("Digite o nome do produto: "))
+valor_produto = float(input("Digite o valor do produto: "))
+qtd = int(input("Digite a qtd adquirida: "))
+print("Nome: ",nome)
+print("Valor",valor_produto)
+print("qtd",qtd)
